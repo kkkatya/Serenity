@@ -144,7 +144,7 @@
 	border-radius: 99%;
 	text-align: center;
 	font-family: "Nexa", "Gilroy L";
-	height: 200px;
+	height: 195px;
 	width: 195px;
 	padding-top: 100px;
 }
@@ -173,6 +173,10 @@
 
 #uma {
 	background: url(../img/uma.jpg) center;
+}
+
+#amie {
+	background: url(../img/amie.jpg) center;
 }
 
  @font-face {

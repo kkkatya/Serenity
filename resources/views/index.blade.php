@@ -120,9 +120,10 @@
                 <div class="col-lg-2 circle col-md-2 col-sm-3" id="uma">
                 </div>
                 </a>
-                <div class="col-lg-2 col-lg-offset-3 col-md-2 col-md-offset-3 circle">
-                    <p>UmaGraphics</p>
+                <a href="http://amie.kz">
+                <div class="col-lg-2 col-lg-offset-3 col-md-2 col-md-offset-3 circle" id="amie">
                 </div>
+                </a>
                 <div class="col-lg-2 col-lg-offset-3 col-md-2 col-md-offset-3 circle">
                     <p>UmaGraphics</p>
                 </div>
