@@ -1,0 +1,190 @@
+.section-heading {
+	text-align: center;	
+	font-family: "Nevis", "Gilroy B";
+	margin-top: 1%;
+	margin-bottom: 5%;
+}
+
+.navbar-brand {
+  	font-family: "Nevis", "Gilroy B";
+  	text-transform: uppercase;
+}
+
+ .navbar-collapse {
+  	font-family: "Ikaros", "Gilroy L";
+  	text-transform: uppercase;
+}
+
+ @font-face {
+  font-family: 'Ikaros';
+  src: url('../fonts/IKAROS-REGULAR.OTF');
+}
+
+@font-face {
+  font-family: 'Nevis';
+  src: url('../fonts/Nevis.TTF');
+}
+
+@font-face {
+  font-family: 'Kano';
+  src: url('../fonts/Kano.OTF');
+}
+
+@font-face {
+  font-family: 'Nexa';
+  src: url('../fonts/Nexa Light.OTF');
+}
+
+#aboutus {
+	background-color: #ffffff;
+}
+
+#portfolio {
+	background-color: #333;
+	color: #fff;
+}
+
+#contacts {
+	text-align: center;
+}
+
+.contactname h5 {
+	font-family: "Nevis", "Gilroy B";
+}
+
+.contactname p {
+	font-family: "Nexa", "Gilroy L";
+}
+
+.veryfooter p {
+	font-family: "Nevis", "Gilroy B";
+}
+
+.font-awesome {
+  	position: relative;
+  	top: 1px;
+  	display: inline-block;
+	 font-family: 'Glyphicons Halflings';
+	 font-style: normal;
+	 font-weight: normal;
+	 line-height: 1;
+	 -webkit-font-smoothing: antialiased;
+	 -moz-osx-font-smoothing: grayscale;
+}
+
+.infoblock {
+	 border-radius: 80px;
+	 margin-bottom: 30px;
+	 float: left;
+	 text-align: center;
+	 color: #fff;
+	 font-size: 2em;
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.infoblock h3 {
+	text-align: left;
+	padding-left: 5%;
+	font-family: "Nevis", "Gilroy B";
+}
+
+.infoblock p {
+	text-align: left;
+	padding-left: 5%;
+	padding-right: 5%;
+	font-family: "Nexa", "Gilroy L";
+	font-size: 0.8em;
+}
+
+#who {
+	 border-radius: 5px;
+	 height: 137px;
+	 width: 100%;
+	 position: inline-block;
+	 display: block;
+	 background-color: #88668c;
+}
+
+#competencem {
+	border-radius: 5px;
+	height: 400px;
+	width: 45%;
+	margin-right: 10%;
+	position: relative;
+	display: block;
+	background-color: #795D84;
+}
+
+#competencek {
+	border-radius: 5px;
+	height: 400px;
+	width: 45%;
+	position: relative;
+	display: block;
+	background-color: #5A4A7A;
+}
+
+#what {
+	 border-radius: 5px;
+	 height: 567px;
+	 width: 30%;
+	 position: inline-block;
+	 display: block;
+	 float: left;
+	 background-color: #433d6c;
+}
+
+.leftside {
+    float: left;
+    width: 55%;
+    margin-right: 10%;
+}
+
+.relativebox {
+	position: relative;
+}
+
+.circle {
+	border-radius: 99%;
+	text-align: center;
+	font-family: "Nexa", "Gilroy L";
+	height: 200px;
+	width: 195px;
+	padding-top: 100px;
+}
+
+#hello {
+	height: 925px;
+	background-color: #d3d3d3;
+	background: url(../img/bg2.png);
+	color: #ffffff;
+}
+
+#hi {
+	padding-top: 25%;
+	padding-bottom: 45%;
+}
+
+#hi h1 {
+	font-size: 5em;
+}
+
+#hi p {
+	text-align: center;
+	font-family: "Nexa", "Gilroy L";
+	font-size: 2em;
+}
+
+#uma {
+	background: url(../img/uma.jpg) center;
+}
+
+ @font-face {
+  font-family: 'Gilroy B';
+  src: url('../fonts/ru/Gilroy-Bold.OTF');
+}
+
+ @font-face {
+  font-family: 'Gilroy L';
+  src: url('../fonts/ru/Gilroy-Light.OTF');
+}
