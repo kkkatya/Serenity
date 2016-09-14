@@ -73,7 +73,6 @@
 }
 
 .infoblock {
-	 border-radius: 80px;
 	 margin-bottom: 30px;
 	 float: left;
 	 text-align: center;
@@ -97,7 +96,6 @@
 }
 
 #who {
-	 border-radius: 5px;
 	 height: 137px;
 	 width: 100%;
 	 position: inline-block;
@@ -106,7 +104,6 @@
 }
 
 #competencem {
-	border-radius: 5px;
 	height: 400px;
 	width: 45%;
 	margin-right: 10%;
@@ -116,7 +113,6 @@
 }
 
 #competencek {
-	border-radius: 5px;
 	height: 400px;
 	width: 45%;
 	position: relative;
@@ -125,7 +121,6 @@
 }
 
 #what {
-	 border-radius: 5px;
 	 height: 567px;
 	 width: 30%;
 	 position: inline-block;
@@ -137,7 +132,8 @@
 .leftside {
     float: left;
     width: 55%;
-    margin-right: 10%;
+    margin-right: 5%;
+    margin-left: 5%;
 }
 
 .relativebox {
