@@ -28,7 +28,7 @@
 
 </head>
 
-<body>
+<body data-spy="scroll" data-target="#bs-example-navbar-collapse-1"> 
 
     <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -85,7 +85,7 @@
             <div class="row">
                 <div class="col-lg-12">
                 <h1 class="section-heading">About Us</h1>
-                    <div class="leftside">
+                    <!--<div class="leftside">
                         <div class="infoblock" id="who">
                         <h3>Who we are?</h3>
                         <p> We are two students from Finland developing websites. </p>
@@ -104,7 +104,7 @@
                         <h3>What we do?</h3>
                         <p> We develop modern websites either based on any needed template or from scratch. We are always open for discussion.</p>
                         </div>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>
@@ -135,6 +135,9 @@
     <section id="contacts">
         <div class="container">
             <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="section-heading">Contacts</h1>
+                </div>
                 <div class="col-lg-6 contactname">
                 <i class="fa fa-envelope-o fa-4x" aria-hidden="true"></i>
                 <h5>Email:</h5>
