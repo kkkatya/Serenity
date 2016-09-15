@@ -69,6 +69,10 @@ section{
 	background-color: #ffffff;
 }
 
+#aboutus h1{
+	margin-bottom: 10px;
+}
+
 #portfolio {
 	background-color: #333;
 	color: #fff;
@@ -100,6 +104,13 @@ section{
 	 line-height: 1;
 	 -webkit-font-smoothing: antialiased;
 	 -moz-osx-font-smoothing: grayscale;
+}
+.absolute{
+	width: 80%;
+	height: 90vh;
+	position: inherit;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .infoblock {
@@ -159,42 +170,7 @@ section{
 	 background-color: #433d6c;
 }
 
-@media(max-width:1300px) {
 
-section{
-	padding-top: 50px;
-}
-
-.section-heading {
-	margin-bottom: 10%;
-}
-
-.infoblock {
-	 margin-bottom: 30px;
-	 font-size: 1.5em;
-}
-
-
-#who {
-	 height: 110px;
-}
-
-#competencem {
-	height: 324px;
-}
-
-#competencek {
-	height: 324px;
-}
-
-#what {
-	 height: 459px;
-}
-
-#hello{
-	padding-top: 15%;
-}
-}
 
 .leftside {
     float: left;
@@ -251,4 +227,52 @@ footer{
 	bottom: 0;
 	padding-bottom: 20px;
 	text-align: center;
+}
+
+
+
+@media(max-width:1300px) {
+
+section{
+	padding-top: 50px;
+}
+
+.section-heading {
+	margin-bottom: 10%;
+}
+
+.infoblock {
+	 margin-bottom: 30px;
+	 font-size: 1.5em;
+}
+
+
+#who {
+	 height: 110px;
+	 width: 100%;
+}
+
+#competencem {
+	height: 324px;
+	width: 45%;
+}
+
+#competencek {
+	height: 324px;
+	width: 45%;
+}
+
+#what {
+	 height: 459px;
+	 width: 20%;
+}
+.leftside {
+    width: 45%;
+    margin-right: 5%;
+    margin-left: 15%;
+}
+
+#hello{
+	padding-top: 15%;
+}
 }

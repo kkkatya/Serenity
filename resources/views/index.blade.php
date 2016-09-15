@@ -83,28 +83,30 @@
     <section id="aboutus">
         <div class="container relativebox">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-12 ">
                 <h1 class="section-heading">About Us</h1>
-                    <!--<div class="leftside">
-                        <div class="infoblock" id="who">
-                        <h3>Who we are?</h3>
-                        <p> We are two students from Finland developing websites. </p>
+                    <div class="absolute">
+                        <div class="leftside">
+                            <div class="infoblock" id="who">
+                            <h3>Who we are?</h3>
+                            <p> We are two students from Finland developing websites. </p>
+                            </div>
+                            <div class="infoblock" id="competencem">
+                            <h3>Maksim</h3>
+                            <p> Front-end - 90% <br> Photoshop - 80% <br> C#/Java - 60% <br> PHP - 60% <br> JavaScript - 50% <br> <br> Russian - native <br> English - fluent <br> Swedish - pre-intermediate</p>
+                            </div>
+                            <div class="infoblock" id="competencek">
+                            <h3>Kate</h3>
+                            <p> Back-end - 90% <br> Laravel - 70% <br> Design - 70% <br> Ruby on Rails - 70% <br> JavaScript - 60% <br> <br> Russian - native <br> English - fluent <br> Swedish - basic</p>
+                            </div>
                         </div>
-                        <div class="infoblock" id="competencem">
-                        <h3>Maksim</h3>
-                        <p> Front-end - 90% <br> Photoshop - 80% <br> C#/Java - 60% <br> PHP - 60% <br> JavaScript - 50% <br> <br> Russian - native <br> English - fluent <br> Swedish - pre-intermediate</p>
-                        </div>
-                        <div class="infoblock" id="competencek">
-                        <h3>Kate</h3>
-                        <p> Back-end - 90% <br> Laravel - 70% <br> Design - 70% <br> Ruby on Rails - 70% <br> JavaScript - 60% <br> <br> Russian - native <br> English - fluent <br> Swedish - basic</p>
+                        <div class="rightside">
+                            <div class="infoblock" id="what">
+                            <h3>What we do?</h3>
+                            <p> We develop modern websites either based on any needed template or from scratch. We are always open for discussion.</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="rightside">
-                        <div class="infoblock" id="what">
-                        <h3>What we do?</h3>
-                        <p> We develop modern websites either based on any needed template or from scratch. We are always open for discussion.</p>
-                        </div>
-                    </div>-->
                 </div>
             </div>
         </div>
