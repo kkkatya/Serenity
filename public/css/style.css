@@ -10,7 +10,7 @@ section{
 .section-heading {
 	text-align: center;	
 	font-family: "Nevis", "Gilroy B";
-	margin-bottom: 10%;
+	margin-bottom: 25%;
 }
 
 .navbar-brand {
@@ -51,7 +51,7 @@ section{
 }
 
 #hello{
-	padding-top: 15%;
+	padding-top: 18%;
 }
 
 #hi h1 {
@@ -189,6 +189,10 @@ section{
 
 #what {
 	 height: 459px;
+}
+
+#hello{
+	padding-top: 15%;
 }
 }
 
