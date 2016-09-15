@@ -124,9 +124,10 @@
                 <div class="col-lg-2 col-lg-offset-3 col-md-2 col-md-offset-3 circle" id="amie">
                 </div>
                 </a>
-                <div class="col-lg-2 col-lg-offset-3 col-md-2 col-md-offset-3 circle">
-                    <p>UmaGraphics</p>
+                <a href="http://optinet.ru">
+                <div class="col-lg-2 col-lg-offset-3 col-md-2 col-md-offset-3 circle" id="online">
                 </div>
+                </a>
             </div>
         </div>
     </section>

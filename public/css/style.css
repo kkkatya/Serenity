@@ -179,6 +179,10 @@
 	background: url(../img/amie.jpg) center;
 }
 
+#online {
+	background: url(../img/online.jpg) center;
+}
+
  @font-face {
   font-family: 'Gilroy B';
   src: url('../fonts/ru/Gilroy-Bold.OTF');

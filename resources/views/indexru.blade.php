@@ -66,7 +66,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12" id="hi">
-                    <h1 class="section-heading">Мы - Serenity</h1>
+                    <h1 class="section-heading">Мы Serenity</h1>
                     <p>Веб-разработчики</p>
                 </div>
             </div>
@@ -114,21 +114,24 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="section-heading">Портфолио</h1>
+                    <h1 class="section-heading">Portfolio</h1>
                 </div>
                 <a href="http://uma-graphics.com">
                 <div class="col-lg-2 circle col-md-2 col-sm-3" id="uma">
                 </div>
                 </a>
-                <div class="col-lg-2 col-lg-offset-3 col-md-2 col-md-offset-3 circle">
-                    <p>UmaGraphics</p>
+                <a href="http://amie.kz">
+                <div class="col-lg-2 col-lg-offset-3 col-md-2 col-md-offset-3 circle" id="amie">
                 </div>
-                <div class="col-lg-2 col-lg-offset-3 col-md-2 col-md-offset-3 circle">
-                    <p>UmaGraphics</p>
+                </a>
+                <a href="http://optinet.ru">
+                <div class="col-lg-2 col-lg-offset-3 col-md-2 col-md-offset-3 circle" id="online">
                 </div>
+                </a>
             </div>
         </div>
     </section>
+
 
     <!-- Footer -->
     <section id="contacts">
