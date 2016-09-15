@@ -1,8 +1,16 @@
+body{
+	position: relative;
+}
+
+section{
+	height: 100vh;
+	padding-top: 50px;
+}
+
 .section-heading {
 	text-align: center;	
 	font-family: "Nevis", "Gilroy B";
-	margin-top: 1%;
-	margin-bottom: 5%;
+	margin-bottom: 10%;
 }
 
 .navbar-brand {
@@ -10,9 +18,16 @@
   	text-transform: uppercase;
 }
 
- .navbar-collapse {
+.navbar-collapse {
   	font-family: "Ikaros", "Gilroy L";
   	text-transform: uppercase;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #fff;
+  background-color: #333;
 }
 
  @font-face {
@@ -33,6 +48,21 @@
 @font-face {
   font-family: 'Nexa';
   src: url('../fonts/Nexa Light.OTF');
+}
+
+#hello{
+	padding-top: 15%;
+}
+
+#hi h1 {
+	font-size: 5em;
+	margin-bottom: 30px;
+}
+
+#hi p {
+	text-align: center;
+	font-family: "Nexa", "Gilroy L";
+	font-size: 2em;
 }
 
 #aboutus {
@@ -129,6 +159,31 @@
 	 background-color: #433d6c;
 }
 
+@media(max-width:1300px) {
+
+.infoblock {
+	 margin-bottom: 30px;
+	 font-size: 1.5em;
+}
+
+
+#who {
+	 height: 110px;
+}
+
+#competencem {
+	height: 324px;
+}
+
+#competencek {
+	height: 324px;
+}
+
+#what {
+	 height: 459px;
+}
+}
+
 .leftside {
     float: left;
     width: 55%;
@@ -150,25 +205,11 @@
 }
 
 #hello {
-	height: 925px;
 	background-color: #d3d3d3;
 	background: url(../img/bg2.png);
 	color: #ffffff;
-}
-
-#hi {
-	padding-top: 25%;
-	padding-bottom: 45%;
-}
-
-#hi h1 {
-	font-size: 5em;
-}
-
-#hi p {
+	position: relative;
 	text-align: center;
-	font-family: "Nexa", "Gilroy L";
-	font-size: 2em;
 }
 
 #uma {
@@ -191,4 +232,11 @@
  @font-face {
   font-family: 'Gilroy L';
   src: url('../fonts/ru/Gilroy-Light.OTF');
+}
+
+footer{
+	position: absolute;
+	bottom: 0;
+	padding-bottom: 20px;
+	text-align: center;
 }
