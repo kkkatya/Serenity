@@ -153,11 +153,11 @@
             </div>
             <br>
             <br>
-            <div class="row veryfooter">
-                <div class="col-lg-12">
+            <footer>
+                <div class="container veryfooter">
                     <p>&copy; 2016 Serenity</p>
                 </div>
-            </div>
+            </footer>
             <!-- /.row -->
         </div>
         <!-- /.container -->

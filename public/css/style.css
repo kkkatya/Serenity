@@ -10,7 +10,7 @@ section{
 .section-heading {
 	text-align: center;	
 	font-family: "Nevis", "Gilroy B";
-	margin-bottom: 50px;
+	margin-bottom: 10%;
 }
 
 .navbar-brand {
@@ -48,6 +48,21 @@ section{
 @font-face {
   font-family: 'Nexa';
   src: url('../fonts/Nexa Light.OTF');
+}
+
+#hello{
+	padding-top: 15%;
+}
+
+#hi h1 {
+	font-size: 5em;
+	margin-bottom: 30px;
+}
+
+#hi p {
+	text-align: center;
+	font-family: "Nexa", "Gilroy L";
+	font-size: 2em;
 }
 
 #aboutus {
@@ -197,18 +212,6 @@ section{
 	text-align: center;
 }
 
-
-
-#hi h1 {
-	font-size: 5em;
-}
-
-#hi p {
-	text-align: center;
-	font-family: "Nexa", "Gilroy L";
-	font-size: 2em;
-}
-
 #uma {
 	background: url(../img/uma.jpg) center;
 }
@@ -225,4 +228,11 @@ section{
  @font-face {
   font-family: 'Gilroy L';
   src: url('../fonts/ru/Gilroy-Light.OTF');
+}
+
+footer{
+	position: absolute;
+	bottom: 0;
+	padding-bottom: 20px;
+	text-align: center;
 }
