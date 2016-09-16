@@ -106,9 +106,10 @@ section{
 	 -moz-osx-font-smoothing: grayscale;
 }
 .absolute{
-	width: 80%;
+	width: 95%;
 	height: 90vh;
 	position: inherit;
+	margin-top: 10%;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -239,6 +240,14 @@ section{
 
 .section-heading {
 	margin-bottom: 10%;
+}
+
+.absolute{
+	width: 80%;
+	height: 90vh;
+	position: inherit;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .infoblock {
